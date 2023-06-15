@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         
         let firstCommit = "First Commint"
         print(firstCommit)
+        
+        let secondCommit = "Second Commit"
+        print(secondCommit)
     }
 
 
